@@ -10,8 +10,8 @@
    inkscape:version="1.0 (6e3e5246a0, 2020-05-07)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 1182.4004 861.87975"
-   height="3257.4983"
+   viewBox="0 0 1182.4004 977.59129"
+   height="3694.8333"
    width="4468.915"
    sodipodi:docname="BG-Material.svg">
   <defs
@@ -140,6 +140,18 @@
          stdDeviation="3.7818638"
          inkscape:collect="always" />
     </filter>
+    <rect
+       x="32.072342"
+       y="238.93896"
+       width="106.37327"
+       height="22.45064"
+       id="rect1217" />
+    <rect
+       x="32.072342"
+       y="238.93896"
+       width="106.37327"
+       height="22.45064"
+       id="rect1361" />
   </defs>
   <sodipodi:namedview
      fit-margin-bottom="0"
@@ -153,9 +165,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="1687.831"
-     inkscape:cx="1740.3222"
-     inkscape:zoom="0.175"
+     inkscape:cy="4093.5276"
+     inkscape:cx="-3399.7677"
+     inkscape:zoom="0.061871843"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -434,6 +446,22 @@
         </g>
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       id="text1215"
+       style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1217);display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(5.7120825,0,0,5.7120825,-329.52871,-887.56456)"><tspan
+         x="32.072266"
+         y="242.06071"><tspan
+           style="shape-inside:url(#rect1217)">This work by RickAndTired is licensed under CC BY-SA 4.0. 
+</tspan></tspan><tspan
+         x="32.072266"
+         y="246.47044"><tspan
+           style="shape-inside:url(#rect1217)">To view a copy of this license, visit 
+</tspan></tspan><tspan
+         x="32.072266"
+         y="250.88017"><tspan
+           style="shape-inside:url(#rect1217)">https://creativecommons.org/licenses/by-sa/4.0</tspan></tspan></text>
   </g>
   <inkscape:templateinfo>
     <inkscape:name>MyDefault</inkscape:name>
